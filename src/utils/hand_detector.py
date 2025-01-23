@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import math
 import mediapipe as mp
-from ..config import settings
+from config import settings
 
 class HandDetector:
     def __init__(self):
