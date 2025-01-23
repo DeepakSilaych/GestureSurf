@@ -73,17 +73,7 @@ Thumbs.db
 # Exceptions (files to keep)
 !src/gesture_control/models/saved_models/model.h5
 
-# Media files
-*.mp4
-*.avi
-*.mov
-*.wmv
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
+
 
 # Large files
 *.zip
